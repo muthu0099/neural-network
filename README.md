@@ -4,7 +4,7 @@ The model is implemented using PyTorch (torch.nn.Module) and is designed for reg
 
 The model learns a mapping from input features (such as year, horsepower, and encoded attributes) to a continuous output representing the car price.
 
-# MDOEL ARCHITECTURE 
+# MODEL ARCHITECTURE 
 
 Input Feature 
 
